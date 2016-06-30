@@ -1,0 +1,14 @@
+layout_spectrum: 0.7362118605524302
+typography_spectrum: 0.9639864764176309
+color:
+  brandStrength: 0.6537391673773527
+  lightness: 0.05856657354161143
+  saturation: 0.07493774523027241
+  rhythmicContrast: 0.1106268847361207
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: colbyr
