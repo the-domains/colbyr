@@ -6,9 +6,9 @@ color:
   saturation: 0.07493774523027241
   rhythmicContrast: 0.1106268847361207
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
 name: colbyr
